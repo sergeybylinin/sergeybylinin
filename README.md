@@ -1,12 +1,18 @@
-<h1 align="center">Hi there, I'm Sergey
+<h1 align="center">Привет, я Сергей
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <p align="left"> 
-I've been studying programming since 2019.<br/>
-Completed training on the educational portal <a href="https://gb.ru/geek_university/developer/analyst/big-data" target="_blank">GeekBrains at the Faculty of Big Data Analytics</a>.<br/>
-I am proficient in a wide range of programs and data management systems, such as: Python, SQL, NoSQL, Numpy, Pandas, Matplotlib, Scikit-learn, Scrapy, Power BI.<br/>
-Now I am <a href="https://цифровой-резерв.рф/programyear/" target="_blank">a student of the artificial intelligence neural network developer course</a>, and every month my experience and knowledge will expand.<br/>
-</p>
+&nbsp; &nbsp; &nbsp; &nbsp; Я изучаю программирование с 2019 года.
+Прошел обучение на образовательном портале <a href="https://gb.ru/geek_university/developer/analyst/big-data" target="_blank">GeekBrains на факультете аналитики больших данных</a>.
+Владею широким спектром программ и систем управления данными, таких как: <br/>
+<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; • Python, ML/DL, SQL, NoSQL<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; • NumPy, Pandas, SkLearn, Matplotlib<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; • TensorFlow, PyTorch, OpenCV, Keras<br/>
+<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; В прошлом я работал инженером-конструктором, где занимался проектированием и реализацией сложных инженерных решений и следил за качеством выполняемых работ. Всё своё свободное время я уделял изучению новых технологий и методов в области анализа данных и машинного обучения. Ранее я создавал (проектировал) бетонные заводы и вспомогательное оборудование к ним, а теперь, с новыми инструментами и подходами, я способен извлекать значимую информацию из данных, оптимизировать процессы и открывать новые горизонты в мире аналитики и нейросетей. Этот переход приносит мне ещё большее удовлетворение от работы. <br/>
+<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; Сейчас я являюсь студентом <a href="https://цифровой-резерв.рф/programyear/" target="_blank">курса «Разработчик нейронных сетей искусственного интеллекта»</a>, и с каждым месяцем мой опыт и знания будут расширяться.
 
 ### Connect with me:
 <p align="left">
