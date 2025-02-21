@@ -3,7 +3,10 @@ ______________________________
 ## ML/DL-инженер
 
 • Python, ML/DL, SQL, NoSQL<br/>
-• NumPy, Pandas, SkLearn, Matplotlib<br/>
+• NumPy, Pandas, SciPy<br/>
+• Matplotlib, Seaborn, Plotly<br/>
+• SkLearn, XGBoost, CatBoost<br/>
+• Gradio, Flask<br/>
 • TensorFlow, PyTorch, OpenCV, Keras<br/>
 
 🌍 Я живу в Самаре  
