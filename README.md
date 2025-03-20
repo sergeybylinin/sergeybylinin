@@ -25,7 +25,7 @@ ___
 **Описание:** Разработка нейронного сотрудника (RAG-системы) для автоматизации анализа и консультирования по финансовой отчетности ПАО "Газпром". Система позволяет быстро находить и предоставлять точные ответы на вопросы, связанные с отчетностью, используя поиск по базе знаний и генерацию ответов.
 [**Ссылка на проект**](https://github.com/sergeybylinin/RAG-Gazprom)
 
-**Основные технологии:** Python, Hugging Face Transformers, LlamaIndex, LangChain, Sentence Transformers, PEFT (LoRA), Phoenix, SQLite.
+**Основные технологии:** Python, Hugging Face Transformers, LlamaIndex, LangChain, Sentence Transformers, PEFT (LoRA), Phoenix.
 
 ____
 
